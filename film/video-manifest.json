@@ -1,0 +1,26 @@
+{
+  "title": "Deep House Rhodes Chords",
+  "study": "dhr01",
+  "bpm": 122,
+  "source_audio": "preview/deep-house-rhodes-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "a648ae95b06e986e7b8d7a112d7533791261486f8be1b8e05e6073825bb3693b",
+  "source_midi": "midi/dhr01-amber-lounge/dhr01-amber-lounge-combined.mid",
+  "source_midi_sha256": "d806d2fe541b250c3716c65dcfe2a0c27575576c2948dddd920e03e6dff58df9",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "52bf8267553bcc06305d33409191a3355a3038856b15f05635cd7bcc33eca912",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "7e7b1a12d104a2cb132508725224675edb309891c99b7cf0b5cda62f25bf9370",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "854c4040953205c8d42ad45f06b7cdcca84b0027d4c0660e64435144cf475a52",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

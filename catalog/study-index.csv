@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+dhr01,Amber Lounge,pack-local equal-tempered pitch collection,C,122,4/4,480,32,61440,midi/dhr01-amber-lounge/dhr01-amber-lounge-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dhr02,Red Keys,pack-local equal-tempered pitch collection,D#,122,4/4,480,32,61440,midi/dhr02-red-keys/dhr02-red-keys-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dhr03,Curtain Light,pack-local equal-tempered pitch collection,F#,122,4/4,480,32,61440,midi/dhr03-curtain-light/dhr03-curtain-light-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dhr04,Afterglow,pack-local equal-tempered pitch collection,C#,122,4/4,480,32,61440,midi/dhr04-afterglow/dhr04-afterglow-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
