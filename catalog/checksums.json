@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/deep-house-rhodes-chords-midi.zip",
-      "bytes": 31375,
-      "sha256": "aeceab23d0be111747dd267ec38e883df13d6ac3595f0d9d8d60f09c9043e943"
+      "bytes": 33478,
+      "sha256": "d7d03e6c2d0fad281def101154565fad0c735c7a49b7a07bcb7e17f046cfeb9d"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9504,
-      "sha256": "68191285e47e653b2ee6faf430239dd9e2b0cc56d31f588308d792d06f12c5e0"
+      "bytes": 9694,
+      "sha256": "b011491429fcd1b740ba86703dab981c2766567f32d7e41fdea9ab8eb130e4db"
     },
     {
       "path": "midi/dhr01-amber-lounge/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/deep-house-rhodes-chords-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "a648ae95b06e986e7b8d7a112d7533791261486f8be1b8e05e6073825bb3693b"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3907,
-      "sha256": "0ba420af5b484f7fddd9efdf68788c562f0c528404527bfad0c5c6fe22386193"
+      "bytes": 4022,
+      "sha256": "9bc89bbe577a50797f260f9444955cc7630e25ad22ca985dcfea214ef72a1e98"
     },
     {
       "path": "social/instagram/caption.txt",
